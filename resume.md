@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My resume .
+title: My resume
 data: 2017-09-3
 permelink: /resume/
 ---
