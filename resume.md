@@ -5,10 +5,10 @@ data: 2017-09-3
 permelink: /resume/
 ---
 
-#Exparience
+# Exparience
 -
 -
 
-#education
+# Education
 -Bs.C.Computer Science, Ubon Ratchathani ratchabhat University.
 -High school
