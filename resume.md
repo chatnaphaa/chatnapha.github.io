@@ -7,7 +7,7 @@ permelink: /resume/
 
 # Exparience
 - Student Union of Faculty 2017.
-![Note8] (https://www.facebook.com/photo.php?fbid=1268929136481330&set=t.100001914526433&type=3&theater)
+![Note8](http://cdn.gsmarena.com/imgroot/news/17/03/note8-galaxy-model-revealed/-728w2/gsmarena_002.jpg)
 
 # Education
 -Bs.C.Computer Science, Ubon Ratchathani ratchabhat University.
