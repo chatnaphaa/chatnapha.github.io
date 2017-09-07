@@ -10,5 +10,5 @@ permelink: /resume/
 -
 
 #education
--Bs.C. Computer Science, Ubon Ratchathani ratchabhat University.
+-Bs.C.Computer Science, Ubon Ratchathani ratchabhat University.
 -High school
